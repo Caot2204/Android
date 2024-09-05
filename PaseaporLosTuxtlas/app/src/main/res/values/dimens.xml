@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">8.dp</dimen>
+    <dimen name="medium">16.dp</dimen>
+    <dimen name="space_small">8.dp</dimen>
+    <dimen name="detail_place_heigth_image">200.dp</dimen>
+    <dimen name="space_details">40.dp</dimen>
+    <dimen name="padding_medium">16.dp</dimen>
+    <dimen name="min_card_height">100.dp</dimen>
+    <dimen name="max_card_height">200.dp</dimen>
+    <dimen name="min_navigation_height">20.dp</dimen>
+    <dimen name="max_navigation_height">50.dp</dimen>
+    <dimen name="category_size">72.dp</dimen>
+    <dimen name="max_weight_card_grid">150.dp</dimen>
+    <dimen name="padding_expanded">32.dp</dimen>
+    <dimen name="min_card_width">50.dp</dimen>
+</resources>

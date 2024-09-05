@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Pasea por Los Tuxtlas</string>
+
+    <string name="name_bicicleta">La Bicicleta</string>
+    <string name="description_bicicleta">Una cafetería con dos sucursales en la ciudad, ofrece a sus clientes distintos tipos de cafés y postres deliciosos.</string>
+    <string name="name_winnis">Winnis Restaurant</string>
+    <string name="description_winnis">Restaurante ubicado en el centro de la ciudad que sirve gran variedad de platillos, tanto desayunos, como almuerzos y cenas completos.</string>
+    <string name="name_tacos_tilapan">Tacos de Tilapan</string>
+    <string name="description_tacos_tilapan">Alrededor del palacio municipal se encuentran distintas personas con canastas que venden deliciosos tacos de pollo o res al estilo de Tilapan, comida deliciosa que puedes acompañar de agua natural de frutas que venden comerciantes cercanos.</string>
+    <string name="name_angelotti">Angelotti</string>
+    <string name="description_angelotti">Pizzería de la región que elabora pizzas de distintos tamaños y sabores, cuenta con juegos infantiles para que los pequeños se diviertan mientras disfrutan de una deliciosa pizza.</string>
+    <string name="name_burguer_king">Burger King</string>
+    <string name="description_burguer_king">Conocida cadena de hamburguesas, ubicada en la carretera federal, cuenta con juegos infantiles para los mas pequeños.</string>
+    <string name="name_dominos">Dominos Pizza</string>
+    <string name="description_dominos">Conocidad cadena de Pizzas, ubicada a un costado de Burguer King en la carretera federal de la ciudad de San Andrés Tuxtla.</string>
+    <string name="name_antojitos">Antojitos de la región</string>
+    <string name="description_antojitos">En cada colonia de la ciudad de San Andrés Tuxtla podrá encontrar personas que vendan los deliciosos antojitos de la región, como empanadas, garnachas, panuchos, picadas, entre otros.</string>
+    <string name="name_chazaro">Marizcos Chazaro</string>
+    <string name="description_chazaro">Aquí puedes encontrar una variedad de platillos con marizcos para degustar con la familia, como lo son cockteles de camaron, empanadas de miniya, mojarras, entre otros más.</string>
+
+    <string name="name_parque_lerdo">Parque Lerdo</string>
+    <string name="description_parque_lerdo">Plaza central de San Andrés Tuxtla</string>
+    <string name="name_chichipilco">Parque Chichipilco</string>
+    <string name="description_chichipilco">Parque que cuenta con juegos para niños (columpios, inflables, entre otros)</string>
+    <string name="name_malecon">Malecón de Catemaco</string>
+    <string name="description_malecon">Malecón alrededor de una hermosa laguna, donde se pueden comprar distintos tipos de platillos de mariscos, siendo el principal los cocteles de tegogolos.</string>
+    <string name="name_nanciyaga">Nanciyaga</string>
+    <string name="description_nanciyaga">Nanciyaga es el lugar donde la selva está de regreso y en donde confluye la selva tropical más al norte del continente americano, con su gran diversidad en especies de flora y fauna, el lago y el manantial que le dan vida al entorno, hacen posible que el visitante en armonía con la naturaleza, regrese a su origen.</string>
+    <string name="name_eyipantla">Salto de Eyipantla</string>
+    <string name="description_eyipantla">Salto de Eyipantla es el nombre de una cascada ubicada en el municipio de San Andrés Tuxtla, en Veracruz, México. La cascada está alimentada por el Río Grande de Catemaco.</string>
+    <string name="name_museo_san_andres">Museo de San Andrés Tuxtla</string>
+    <string name="description_museo_san_andres">Conoce algunas de las antiguedades encontradas en la ciudad y sus localidades.</string>
+    <string name="name_catedral_catemaco">Catedral de Catemaco</string>
+    <string name="description_catedral_catemaco">Visita la hermosa catedral ubicada en la ciudad de Catemaco, conoce de cerca a la virgen del carmen ubicada en su interior.</string>
+    
+    <string name="name_roca_partida">Roca Partida</string>
+    <string name="description_roca_partida">Punta Roca Partida es una formación rocosa emblemática que se alza majestuosamente desde las profundidades del océano. Situada en la costa este de Veracruz, esta singular estructura geológica es el resultado de millones de años de erosión y actividad volcánica. Su nombre, que se traduce como "Punta Roca Rota", hace referencia a las grietas y fisuras que surcan su superficie, creando un paisaje impresionante y único en la región.</string>
+    <string name="name_dos_abril">2 de Abril</string>
+    <string name="description_dos_abril">Disfruta de una playa llena de turismo, aquí desemboca un río en el cual tambíen se puede nadar, así que si te gusta la playa con río, este es un buen lugar.</string>
+    <string name="name_montepio">Montepío</string>
+    <string name="description_montepio">Conocida por su impactante paisaje, la playa Montepío se caracteriza por su oleaje tranquilo y es una opción ideal para visitar por sus riscos y montañas. Esta playa forma parte de la región de los Tuxtlas, una zona famosa por sus bosques, flora y fauna. En este pequeño lugar encontrarás de todo para descansar, desde casadas y ríos de respuesta rápida para los aventureros que gusten de una actividad extrema.</string>
+    <string name="name_playa_hermosa">Playa Hermosa</string>
+    <string name="description_playa_hermosa">Una tranquila playa pesquera que se encuentra a unos minutos de la playa 2 de Abril, en ella puedes degustar de platillos de mariscos y disfrutar de un oleaje tranquilo, si tienes suerte puedes ser testigo de como los pescadores realizan su trabajo diario.</string>
+    <string name="name_poza_enanos">Poza de los enanos</string>
+    <string name="description_poza_enanos">La poza de los enanos es un buen lugar para conocer durante tu visita a Catemaco y Sontecomapan, este lugar es un pequeño cuerpo de agua que es famoso por sus aguas cristalinas y su zona de restaurantes de mariscos. Este lugar le debe su nombre al reflejo que hace el sol sobre sus aguas, acorta las piernas de los bañistas, dando el efecto visual de que todos son enanos. El agua es cristalina y fría, proveniente de la Laguna de Sontecomapan, por lo que es el lugar perfecto para enjuagarte el agua del mar si tomas el paseo en lancha a la playa de la barra.</string>
+    <string name="name_alberca_morenos">Alberca de los Morenos</string>
+    <string name="description_alberca_morenos">En esta alberca también puedes encontrar comida deliciosa, esta abierta casi todo el día, además de que pueden impartir clases de natación.</string>
+    <string name="name_alberca_otapan">Alberca Otapan</string>
+    <string name="description_alberca_otapan">Es una bella alberca que cuenta con un tobogán para aumentar la diversión con los amigos o en familia, cuenta con estacionamiento propio y abren todos los días.</string>
+    
+    <string name="name_piedra_alta">Piedra Alta</string>
+    <string name="description_piedra_alta">Un hotel justo en el centro de San Andrés Tuxtla, cuenta con una gran cantidad de habitaciones comodas y un restaurante con comida variada, en él, tambien puedes encontrar un Starbucks.</string>
+    <string name="name_hotel_parque">Hotel del Parque</string>
+    <string name="description_hotel_parque">Hotel del Parque, ubicado estratégicamente en el centro de San Andrés Tuxtla en Veracruz, en una de las regiones más bellas del sureste mexicano. Cuenta con: salón de juntas y convenciones, restaurante bar, boutique, Internet Gratuito, sala para eventos y banquetes, elevador, estacionamiento y deguste su exquisito Café en su restaurante Café Parque.</string>
+    <string name="name_hotel_michelle">Hotel Michelle</string>
+    <string name="description_hotel_michelle">con: salón de juntas y convenciones, restaurante bar, boutique, Internet Gratuito, sala para eventos y banquetes, elevador, estacionamiento y deguste su exquisito Café en su restaurante Café Parque. Las habitaciones cuentan con vistas a los jardines, TV, aire acondicionado, patio y baño privado con artículos de aseo gratuitos.</string>
+    
+    <string name="comida">Lugares para Comer</string>
+    <string name="familiar">Convive en Familia</string>
+    <string name="acuatico">Lugares para nadar</string>
+    <string name="hospedaje">Lugares para quedarse</string>
+    <string name="share">Compartir</string>
+    <string name="turistico">Turistico</string>
+    <string name="restaurante">Restaurante</string>
+    <string name="comida_rapida">Comida rápida</string>
+    <string name="cafeteria">Cafetería</string>
+    <string name="alberca">Alberca</string>
+    <string name="playa">Playa</string>
+    <string name="rio">Río</string>
+    <string name="iglesia">Iglesia</string>
+    <string name="parque">Parque</string>
+    <string name="back">Regresar</string>
+    <string name="comida_local">Cocina Local</string>
+    <string name="poza">Poza</string>
+    <string name="inicio">Inicio</string>
+    <string name="places">Lugares para visitar</string>
+    <string name="place_details">Detalles del lugar</string>
+    <string name="introduction">Los tuxtlas es una región bastante amplia que abarca los municipios de Santiago Tuxtla, San Andrés Tuxtla y Catemaco. La región cuenta con una gran cantidad de lugares que atrae a las personas que lo visitan. </string>
+    <string name="sugerencia_lugar">Le gustaría conocer:</string>
+    <string name="mas_lugares">Conocer más lugares...</string>
+    <string name="designed_freepick">Images designed by freepik</string>
+    <string name="categorias">Categorías:</string>
+    <string name="message_share">"¡Vamos a: %s"</string>
+    <string name="sharing_not_avaible">No es posible compartir</string>
+
+</resources>
