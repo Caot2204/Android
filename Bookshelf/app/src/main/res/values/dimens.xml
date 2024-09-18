@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_size">200.dp</dimen>
+    <dimen name="padding_medium">16.dp</dimen>
+    <dimen name="space_grid">8.dp</dimen>
+    <dimen name="padding_small">4.dp</dimen>
+    <dimen name="default_content_padding">0.dp</dimen>
+    <dimen name="column_widht">200.dp</dimen>
+    <dimen name="heigh_thumbnail">250.dp</dimen>
+    <dimen name="card_height">400.dp</dimen>
+</resources>
